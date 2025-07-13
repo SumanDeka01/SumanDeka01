@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif" alt="Banner" />
 </p>
 
-<h1 align="center">Hey👋, This is Suman</h1>
+<h1 align="center">Hey👋, This is Suman!</h1>
 <h3 align="center">A Passionate Web Developer</h3>
 
 <p align="center">
