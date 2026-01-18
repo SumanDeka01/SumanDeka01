@@ -1,37 +1,129 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif" alt="Banner" />
-</p>
+# <div align="center"> "Hello, World!";
+</div>
 
-<h1 align="center">Hey👋, This is Suman!</h1>
-<h3 align="center">A Passionate Web Developer</h3>
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey!+Suman+Here+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;Building+Cool+Stuff+24%2F7+%F0%9F%9A%80)
 
-<p align="center">
-  <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coder GIF" width="400"/>
-</p>
+</div>
 
 ---
 
-### 🔭 I’m Currently Working On:
-- Backend Development
-- Enhancing my full-stack skills
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 📫 Reach Me At:
-- 📧 **sdeka2903@gmail.com**
+### 🎯 About Me
+
+```javascript
+const developer = {
+    name: "Suman Deka",
+    role: "Writes code, breaks it, fixes it… sometimes",
+    location: "Earth 🌍",
+    code: ["JavaScript", "Python", "Go", "Node"],
+    technologies: {
+        frontEnd: ["React", "Next.js"],
+        backEnd: ["Node.js", "Django", "FastAPI"],
+        databases: ["MongoDB", "PostgreSQL", "FASTAPI"],
+        ai: ["TensorFlow", "PyTorch", "LangChain"]
+    },
+    currentFocus: "Building AI-powered applications",
+};
+```
+
+<br clear="right"/>
 
 ---
 
-### 🛠️ Languages and Tools
+## 💻 Tech Stack
 
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-</p>
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
 
+
+
+
+
+
+---
+
+## 🔥 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SumanDeka01&theme=tokyo-night&hide_border=true&area=true)](https://github.com/SumanDeka01)
+
+
+</div>
+
+
+</div>
+
+
+## 🎮 When I'm Not Coding
+
+<div align="center">
+
+🎮 Gaming | ⚽ Sports | 📚 Reading Tech Blogs | 🎵 Music | ☕ Coffee Enthusiast
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://yourwebsite.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-deka/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/yourusername)
+
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+### 💬 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
+---
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<div align="center">
+  
+### Thanks for visiting! Let's build something amazing together 🚀
+
+</div>
