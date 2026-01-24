@@ -14,7 +14,7 @@
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
+  
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
@@ -47,7 +47,7 @@ const developer = {
         frontEnd: ["React", "Next.js"],
         backEnd: ["Node.js", "Django", "FastAPI"],
         databases: ["MongoDB", "PostgreSQL", "FASTAPI"],
-        ai: ["TensorFlow", "PyTorch", "LangChain"]
+        ai: ["TensorFlow", "PyTorch",]
     },
     currentFocus: "Building AI-powered applications",
 };
