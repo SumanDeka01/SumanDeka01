@@ -10,8 +10,6 @@
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
-  
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
   
@@ -45,11 +43,10 @@ const developer = {
     code: ["JavaScript", "Python", "Go", "Node"],
     technologies: {
         frontEnd: ["React", "Next.js"],
-        backEnd: ["Node.js", "Django", "FastAPI"],
-        databases: ["MongoDB", "PostgreSQL", "FASTAPI"],
+        backEnd: ["Node.js", "FastAPI"],
+        databases: ["MongoDB", "FASTAPI"],
         ai: ["TensorFlow", "PyTorch",]
-    },
-    currentFocus: "Building AI-powered applications",
+    }
 };
 ```
 
@@ -94,20 +91,10 @@ const developer = {
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SumanDeka01&theme=tokyo-night&hide_border=true&area=true)](https://github.com/SumanDeka01)
 
-
 </div>
 
 
-</div>
 
-
-## 🎮 When I'm Not Coding
-
-<div align="center">
-
-🎮 Gaming | ⚽ Sports | 📚 Reading Tech Blogs | 🎵 Music | ☕ Coffee Enthusiast
-
-</div>
 
 ---
 
@@ -124,21 +111,6 @@ const developer = {
 
 ---
 
-## 💡 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-<div align="center">
-
-### 💬 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
 
 ---
 
